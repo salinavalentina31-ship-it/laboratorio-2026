@@ -17,3 +17,6 @@ git status
 git add nombre_del_archivo
 
 git add .
+
+git commit -m "Mi primer commit"
+
