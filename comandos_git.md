@@ -33,10 +33,3 @@ git branch -M main
 --
 git remote  add origin URL
 
-echo "# laboratorio-2026" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/salinavalentina31-ship-it/laboratorio-2026.git
-git push -u origin main

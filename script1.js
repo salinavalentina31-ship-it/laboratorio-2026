@@ -21,10 +21,23 @@ Date
 AND 
 OR
 NOT
+
 // RELACIONALES
 ==
-<=
-<
->=</>
-//ARITMETICOS
+ 1>
+1>=
+1<
+1<=
+1!=
+1!==
+
+// ARITMETRICOS
 +
+-
+1*
+1/
+1%
+1**
+
+// ASIGNACION
+igual
